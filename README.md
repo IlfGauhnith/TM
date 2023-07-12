@@ -1,2 +1,2 @@
 # Mineração de Texto
-Contém Jupyter Notebooks implementando as atividades propostas na disciplina.  
+Contém Jupyter Notebooks com implementações das atividades propostas na disciplina e anotações importantes.  
